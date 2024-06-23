@@ -1,0 +1,8 @@
+C:\Users\Tichs\Desktop\bootcamp-AEOG\CSHARP\Menu\Menu\obj\Debug\Menu.csproj.AssemblyReference.cache
+C:\Users\Tichs\Desktop\bootcamp-AEOG\CSHARP\Menu\Menu\obj\Debug\Menu.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tichs\Desktop\bootcamp-AEOG\CSHARP\Menu\Menu\obj\Debug\Menu.csproj.CoreCompileInputs.cache
+C:\Users\Tichs\Desktop\bootcamp-AEOG\CSHARP\Menu\Menu\bin\Debug\Menu.exe.config
+C:\Users\Tichs\Desktop\bootcamp-AEOG\CSHARP\Menu\Menu\bin\Debug\Menu.exe
+C:\Users\Tichs\Desktop\bootcamp-AEOG\CSHARP\Menu\Menu\bin\Debug\Menu.pdb
+C:\Users\Tichs\Desktop\bootcamp-AEOG\CSHARP\Menu\Menu\obj\Debug\Menu.exe
+C:\Users\Tichs\Desktop\bootcamp-AEOG\CSHARP\Menu\Menu\obj\Debug\Menu.pdb

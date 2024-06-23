@@ -1,0 +1,8 @@
+C:\Users\Tichs\Desktop\bootcamp-AEOG\CSHARP\operacionesAritmeticas\operacionesAritmeticas\bin\Debug\operacionesAritmeticas.exe.config
+C:\Users\Tichs\Desktop\bootcamp-AEOG\CSHARP\operacionesAritmeticas\operacionesAritmeticas\bin\Debug\operacionesAritmeticas.exe
+C:\Users\Tichs\Desktop\bootcamp-AEOG\CSHARP\operacionesAritmeticas\operacionesAritmeticas\bin\Debug\operacionesAritmeticas.pdb
+C:\Users\Tichs\Desktop\bootcamp-AEOG\CSHARP\operacionesAritmeticas\operacionesAritmeticas\obj\Debug\operacionesAritmeticas.csproj.AssemblyReference.cache
+C:\Users\Tichs\Desktop\bootcamp-AEOG\CSHARP\operacionesAritmeticas\operacionesAritmeticas\obj\Debug\operacionesAritmeticas.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tichs\Desktop\bootcamp-AEOG\CSHARP\operacionesAritmeticas\operacionesAritmeticas\obj\Debug\operacionesAritmeticas.csproj.CoreCompileInputs.cache
+C:\Users\Tichs\Desktop\bootcamp-AEOG\CSHARP\operacionesAritmeticas\operacionesAritmeticas\obj\Debug\operacionesAritmeticas.exe
+C:\Users\Tichs\Desktop\bootcamp-AEOG\CSHARP\operacionesAritmeticas\operacionesAritmeticas\obj\Debug\operacionesAritmeticas.pdb

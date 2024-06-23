@@ -1,0 +1,14 @@
+﻿id,nombre,primerApellido,segundoApellido,correo,telefono,fechaNacimiento,curp,sueldoMensual,idEstadoOrigen,idEstatus
+6,Jesiel,García,Pérez,jesiel@gmail.com,3317901341,1990-11-08,GAPJ901108HHGRRS00,NULL,13,5
+9,Rolando,Marquez,Hernandez,rolando@gmail.com,1168329969,1997-03-08,MAHR97030815HRL600,NULL,15,5
+10,Jesús Yotecatl,Miranda,Espinosa,jesus@gmail.com,2213335247,1997-06-14,MIEJ970614HMCRSS05,NULL,15,5
+11,Cecilia,Cruz,Luna,cecilia@outlook.com,3317052376,1997-08-08,CULC970808MPLRNC02,22000.00,21,5
+12,Baldomero,Gómez,García,baldomero@gmail.com,4419055010,2000-11-08,GOGB001108HPLMRLA2,23000.00,21,5
+13,Rubén,Rojas,Mantilla,ruben@outlook.com,5594228277,1997-01-17,ROMR910117HVZJNB00,21000.00,30,5
+14,Ana Patricia,"Apatiga ",Olguín,patricia@gmail.com,6614913002,1998-06-23,AAOA980623MHGPLN03,22000.00,13,5
+15,"Bryan Adiel ","Arroyo ",Tavera,brayan@gmail.com,7719034047,1998-04-02,AOTB980402HHGRVR05,20000.00,13,5
+16,Carlos Arath,Serrano,Berna,carlos@gmail.com,8878893014,2000-03-05,SEBC000305HQTRRRA5,250000.00,22,5
+17,Edith,Rasgado,Sarabia,edith@gmail.com,9911777500,1994-04-29,RASE940429MOCSRD00,20000.00,20,5
+18,Víctor,Marín,Pérez,victor@gmail.com,2215066253,1998-06-04,MAPV980604HDFRRC01,21000.00,15,5
+19,Alan,Ocampo,Guzmán,efra.rlz@gmail.com,7471495947,1988-01-13,OAGA880113HGRCZL07,30000.00,11,8
+21,Aldo Ernesto,Ocaso,Guten,aeocaso@gmail.com,7471666666,1988-02-13,OAGA880113HGRCZL07,50000.00,11,5

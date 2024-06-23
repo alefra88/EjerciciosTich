@@ -1,0 +1,8 @@
+C:\Users\Tichs\Desktop\bootcamp-AEOG\CSHARP\introduccionCS\introduccionCS\bin\Debug\introduccionCS.exe.config
+C:\Users\Tichs\Desktop\bootcamp-AEOG\CSHARP\introduccionCS\introduccionCS\bin\Debug\introduccionCS.exe
+C:\Users\Tichs\Desktop\bootcamp-AEOG\CSHARP\introduccionCS\introduccionCS\bin\Debug\introduccionCS.pdb
+C:\Users\Tichs\Desktop\bootcamp-AEOG\CSHARP\introduccionCS\introduccionCS\obj\Debug\introduccionCS.csproj.AssemblyReference.cache
+C:\Users\Tichs\Desktop\bootcamp-AEOG\CSHARP\introduccionCS\introduccionCS\obj\Debug\introduccionCS.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tichs\Desktop\bootcamp-AEOG\CSHARP\introduccionCS\introduccionCS\obj\Debug\introduccionCS.csproj.CoreCompileInputs.cache
+C:\Users\Tichs\Desktop\bootcamp-AEOG\CSHARP\introduccionCS\introduccionCS\obj\Debug\introduccionCS.exe
+C:\Users\Tichs\Desktop\bootcamp-AEOG\CSHARP\introduccionCS\introduccionCS\obj\Debug\introduccionCS.pdb

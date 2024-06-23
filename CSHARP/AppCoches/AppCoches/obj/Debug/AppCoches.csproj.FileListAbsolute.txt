@@ -1,0 +1,8 @@
+C:\Users\Tichs\Desktop\bootcamp-AEOG\CSHARP\AppCoches\AppCoches\bin\Debug\AppCoches.exe.config
+C:\Users\Tichs\Desktop\bootcamp-AEOG\CSHARP\AppCoches\AppCoches\bin\Debug\AppCoches.exe
+C:\Users\Tichs\Desktop\bootcamp-AEOG\CSHARP\AppCoches\AppCoches\bin\Debug\AppCoches.pdb
+C:\Users\Tichs\Desktop\bootcamp-AEOG\CSHARP\AppCoches\AppCoches\obj\Debug\AppCoches.csproj.AssemblyReference.cache
+C:\Users\Tichs\Desktop\bootcamp-AEOG\CSHARP\AppCoches\AppCoches\obj\Debug\AppCoches.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tichs\Desktop\bootcamp-AEOG\CSHARP\AppCoches\AppCoches\obj\Debug\AppCoches.csproj.CoreCompileInputs.cache
+C:\Users\Tichs\Desktop\bootcamp-AEOG\CSHARP\AppCoches\AppCoches\obj\Debug\AppCoches.exe
+C:\Users\Tichs\Desktop\bootcamp-AEOG\CSHARP\AppCoches\AppCoches\obj\Debug\AppCoches.pdb
