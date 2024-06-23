@@ -1,0 +1,11 @@
+C:\Users\Tichs\Desktop\bootcamp-AEOG\CSHARP\PuntoDeVenta\PuntoDeVenta\bin\Debug\PuntoDeVenta.exe.config
+C:\Users\Tichs\Desktop\bootcamp-AEOG\CSHARP\PuntoDeVenta\PuntoDeVenta\bin\Debug\PuntoDeVenta.exe
+C:\Users\Tichs\Desktop\bootcamp-AEOG\CSHARP\PuntoDeVenta\PuntoDeVenta\bin\Debug\PuntoDeVenta.pdb
+C:\Users\Tichs\Desktop\bootcamp-AEOG\CSHARP\PuntoDeVenta\PuntoDeVenta\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Tichs\Desktop\bootcamp-AEOG\CSHARP\PuntoDeVenta\PuntoDeVenta\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Tichs\Desktop\bootcamp-AEOG\CSHARP\PuntoDeVenta\PuntoDeVenta\obj\Debug\PuntoDeVenta.csproj.AssemblyReference.cache
+C:\Users\Tichs\Desktop\bootcamp-AEOG\CSHARP\PuntoDeVenta\PuntoDeVenta\obj\Debug\PuntoDeVenta.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tichs\Desktop\bootcamp-AEOG\CSHARP\PuntoDeVenta\PuntoDeVenta\obj\Debug\PuntoDeVenta.csproj.CoreCompileInputs.cache
+C:\Users\Tichs\Desktop\bootcamp-AEOG\CSHARP\PuntoDeVenta\PuntoDeVenta\obj\Debug\PuntoDeVenta.csproj.CopyComplete
+C:\Users\Tichs\Desktop\bootcamp-AEOG\CSHARP\PuntoDeVenta\PuntoDeVenta\obj\Debug\PuntoDeVenta.exe
+C:\Users\Tichs\Desktop\bootcamp-AEOG\CSHARP\PuntoDeVenta\PuntoDeVenta\obj\Debug\PuntoDeVenta.pdb
