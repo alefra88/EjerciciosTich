@@ -1,0 +1,8 @@
+C:\Users\Tichs\Desktop\bootcamp-AEOG\CSHARP\ADOConsola\ADOConsola\bin\Debug\ADOConsola.exe.config
+C:\Users\Tichs\Desktop\bootcamp-AEOG\CSHARP\ADOConsola\ADOConsola\bin\Debug\ADOConsola.exe
+C:\Users\Tichs\Desktop\bootcamp-AEOG\CSHARP\ADOConsola\ADOConsola\bin\Debug\ADOConsola.pdb
+C:\Users\Tichs\Desktop\bootcamp-AEOG\CSHARP\ADOConsola\ADOConsola\obj\Debug\ADOConsola.csproj.AssemblyReference.cache
+C:\Users\Tichs\Desktop\bootcamp-AEOG\CSHARP\ADOConsola\ADOConsola\obj\Debug\ADOConsola.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tichs\Desktop\bootcamp-AEOG\CSHARP\ADOConsola\ADOConsola\obj\Debug\ADOConsola.csproj.CoreCompileInputs.cache
+C:\Users\Tichs\Desktop\bootcamp-AEOG\CSHARP\ADOConsola\ADOConsola\obj\Debug\ADOConsola.exe
+C:\Users\Tichs\Desktop\bootcamp-AEOG\CSHARP\ADOConsola\ADOConsola\obj\Debug\ADOConsola.pdb
