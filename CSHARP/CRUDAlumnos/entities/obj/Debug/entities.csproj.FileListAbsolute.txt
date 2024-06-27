@@ -1,0 +1,6 @@
+C:\Users\Tichs\Desktop\bootcamp-AEOG\CSHARP\CRUDAlumnos\entities\bin\Debug\entities.dll
+C:\Users\Tichs\Desktop\bootcamp-AEOG\CSHARP\CRUDAlumnos\entities\bin\Debug\entities.pdb
+C:\Users\Tichs\Desktop\bootcamp-AEOG\CSHARP\CRUDAlumnos\entities\obj\Debug\entities.csproj.AssemblyReference.cache
+C:\Users\Tichs\Desktop\bootcamp-AEOG\CSHARP\CRUDAlumnos\entities\obj\Debug\entities.csproj.CoreCompileInputs.cache
+C:\Users\Tichs\Desktop\bootcamp-AEOG\CSHARP\CRUDAlumnos\entities\obj\Debug\entities.dll
+C:\Users\Tichs\Desktop\bootcamp-AEOG\CSHARP\CRUDAlumnos\entities\obj\Debug\entities.pdb

@@ -1,0 +1,9 @@
+C:\Users\Tichs\Desktop\bootcamp-AEOG\CSHARP\CRUDAlumnos\data\bin\Debug\data.dll
+C:\Users\Tichs\Desktop\bootcamp-AEOG\CSHARP\CRUDAlumnos\data\bin\Debug\data.pdb
+C:\Users\Tichs\Desktop\bootcamp-AEOG\CSHARP\CRUDAlumnos\data\bin\Debug\entities.dll
+C:\Users\Tichs\Desktop\bootcamp-AEOG\CSHARP\CRUDAlumnos\data\bin\Debug\entities.pdb
+C:\Users\Tichs\Desktop\bootcamp-AEOG\CSHARP\CRUDAlumnos\data\obj\Debug\data.csproj.AssemblyReference.cache
+C:\Users\Tichs\Desktop\bootcamp-AEOG\CSHARP\CRUDAlumnos\data\obj\Debug\data.csproj.CoreCompileInputs.cache
+C:\Users\Tichs\Desktop\bootcamp-AEOG\CSHARP\CRUDAlumnos\data\obj\Debug\data.csproj.CopyComplete
+C:\Users\Tichs\Desktop\bootcamp-AEOG\CSHARP\CRUDAlumnos\data\obj\Debug\data.dll
+C:\Users\Tichs\Desktop\bootcamp-AEOG\CSHARP\CRUDAlumnos\data\obj\Debug\data.pdb
