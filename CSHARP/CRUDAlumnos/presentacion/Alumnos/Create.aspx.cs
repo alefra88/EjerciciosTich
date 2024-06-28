@@ -26,7 +26,26 @@ namespace presentacion.Alumnos
             oAlumno.sueldoMensual = 50000;
             oAlumno.idEstadoOrigen = 11;
             oAlumno.idEstatus = 5;
+            //_oNAlumno.Agregrar(oAlumno);
+        }
+
+        protected void btnGuardar_Click(object sender, EventArgs e)
+        {
+            Alumno oAlumno = new Alumno();
+            int id = Convert.ToInt32(Request.QueryString["id"]);
+            oAlumno.id = id;
+            oAlumno.nombre = Convert.ToString(txtBxNombre.Text);
+            oAlumno.primerApellido = Convert.ToString(txtBxPA.Text);
+            oAlumno.segundoApellido = Convert.ToString(txtBxSA.Text);
+            oAlumno.correo = Convert.ToString(txtBxCorreo.Text);
+            oAlumno.telefono = Convert.ToString(txtBxTelefono.Text);
+            oAlumno.fechaNacimiento = Convert.ToDateTime(txtBxFecNac.Text);
+            oAlumno.curp = Convert.ToString(txtBxCurp.Text);
+            oAlumno.sueldoMensual = Convert.ToDecimal(TxtBxSalario.Text);
+            oAlumno.idEstadoOrigen = Convert.ToInt16(txtBxIdEdo.Text);
+            oAlumno.idEstatus = Convert.ToInt16(txtBxIdEstatus.Text);
             _oNAlumno.Agregrar(oAlumno);
+            Response.Redirect($"index.aspx");
         }
     }
 }

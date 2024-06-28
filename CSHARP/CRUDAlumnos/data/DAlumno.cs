@@ -32,7 +32,17 @@ namespace data
                     listaAlumno.Add(new Alumno()
                     {
                         id = Convert.ToInt16(reader["id"]),
-                        nombre = reader["nombre"].ToString()
+                        nombre = reader["nombre"].ToString(),
+                        primerApellido = reader["primerApellido"].ToString(),
+                        segundoApellido = reader["segundoApellido"].ToString(),
+                        correo = reader["correo"].ToString(),
+                        telefono = reader["telefono"].ToString(),
+                        fechaNacimiento = Convert.ToDateTime(reader["fechaNacimiento"]),
+                        curp = reader["curp"].ToString(),
+                        sueldoMensual = reader["sueldoMensual"] == DBNull.Value?0: Convert.ToDecimal(reader["sueldoMensual"]),
+                        idEstadoOrigen = Convert.ToInt16(reader["idEstadoOrigen"]),
+                        idEstatus = Convert.ToInt16(reader["idEstatus"])
+
                     });
                 }
                 con.Close();
@@ -60,7 +70,7 @@ namespace data
                 oAlumno.telefono = reader["telefono"].ToString();
                 oAlumno.fechaNacimiento = Convert.ToDateTime(reader["fechaNacimiento"]);
                 oAlumno.curp = reader["curp"].ToString();
-                oAlumno.sueldoMensual = Convert.ToDecimal(reader["sueldoMensual"]);
+                oAlumno.sueldoMensual = reader["sueldoMensual"]== DBNull.Value ? 0 : Convert.ToDecimal(reader["sueldoMensual"]);
                 oAlumno.idEstadoOrigen = Convert.ToInt16(reader["idEstadoOrigen"]);
                 oAlumno.idEstatus = Convert.ToInt16(reader["idEstatus"]);
                 con.Close();
@@ -125,6 +135,36 @@ namespace data
                 comando.ExecuteNonQuery();
                 con.Close();
             }
+        }
+        /*Agregar a la Clase DAlumno el método ConsultarTablaISR, la cual 
+regresará una LIST<ItemTablaISR> cargándola desde la tabla TablaISR de 
+la base de datos*/
+        public List<ItemTablaISR> ConsultarTablaISR()
+        {
+            List<ItemTablaISR> oListTablaISR = new List<ItemTablaISR>();
+            _query = $"consultarISR";
+            using (SqlConnection con = new SqlConnection(_cnnString))
+            {
+                comando = new SqlCommand(_query, con);
+                comando.CommandType = System.Data.CommandType.StoredProcedure;
+                comando.Parameters.AddWithValue("@id", -1);
+                con.Open();
+                SqlDataReader reader = comando.ExecuteReader();
+                while (reader.Read())
+                {
+                    oListTablaISR.Add(new ItemTablaISR()
+                    {
+                        LimiteInferior = Convert.ToDecimal(reader["LimInf"]),
+                        LimiteSuperior = Convert.ToDecimal(reader["LimSup"]),
+                        CuotaFija = Convert.ToDecimal(reader["CuotaFija"]),
+                        Excedente = Convert.ToDecimal(reader["ExedLimInf"]),
+                        Subsidio = Convert.ToDecimal(reader["Subsidio"]),
+                        ISR = 0
+                    });
+                }
+                con.Close();
+            }
+            return oListTablaISR;
         }
     }
 }
