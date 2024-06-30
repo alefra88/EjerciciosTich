@@ -41,7 +41,7 @@ namespace presentacion.Alumnos
             oAlumno.telefono = Convert.ToString(txtBxTelefono.Text);
             oAlumno.fechaNacimiento = Convert.ToDateTime(txtBxFecNac.Text);
             oAlumno.curp = Convert.ToString(txtBxCurp.Text);
-            oAlumno.sueldoMensual = Convert.ToDecimal(TxtBxSalario.Text);
+            oAlumno.sueldoMensual = Convert.ToDecimal(txtBxSueldo.Text);
             oAlumno.idEstadoOrigen = Convert.ToInt16(txtBxIdEdo.Text);
             oAlumno.idEstatus = Convert.ToInt16(txtBxIdEstatus.Text);
             _oNAlumno.Agregrar(oAlumno);

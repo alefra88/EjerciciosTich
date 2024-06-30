@@ -66,6 +66,7 @@ C:\Users\Tichs\Desktop\bootcamp-AEOG\CSHARP\CRUDAlumnos\presentacion\bin\System.
 C:\Users\Tichs\Desktop\bootcamp-AEOG\CSHARP\CRUDAlumnos\presentacion\bin\WebGrease.dll
 C:\Users\Tichs\Desktop\bootcamp-AEOG\CSHARP\CRUDAlumnos\presentacion\bin\data.dll
 C:\Users\Tichs\Desktop\bootcamp-AEOG\CSHARP\CRUDAlumnos\presentacion\bin\business.pdb
+C:\Users\Tichs\Desktop\bootcamp-AEOG\CSHARP\CRUDAlumnos\presentacion\bin\business.dll.config
 C:\Users\Tichs\Desktop\bootcamp-AEOG\CSHARP\CRUDAlumnos\presentacion\bin\entities.pdb
 C:\Users\Tichs\Desktop\bootcamp-AEOG\CSHARP\CRUDAlumnos\presentacion\bin\System.Web.Optimization.xml
 C:\Users\Tichs\Desktop\bootcamp-AEOG\CSHARP\CRUDAlumnos\presentacion\bin\Newtonsoft.Json.xml

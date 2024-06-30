@@ -1,7 +1,9 @@
+C:\Users\Tichs\Desktop\bootcamp-AEOG\CSHARP\CRUDAlumnos\business\bin\Debug\business.dll.config
 C:\Users\Tichs\Desktop\bootcamp-AEOG\CSHARP\CRUDAlumnos\business\bin\Debug\business.dll
 C:\Users\Tichs\Desktop\bootcamp-AEOG\CSHARP\CRUDAlumnos\business\bin\Debug\business.pdb
 C:\Users\Tichs\Desktop\bootcamp-AEOG\CSHARP\CRUDAlumnos\business\bin\Debug\data.dll
 C:\Users\Tichs\Desktop\bootcamp-AEOG\CSHARP\CRUDAlumnos\business\bin\Debug\entities.dll
+C:\Users\Tichs\Desktop\bootcamp-AEOG\CSHARP\CRUDAlumnos\business\bin\Debug\Newtonsoft.Json.dll
 C:\Users\Tichs\Desktop\bootcamp-AEOG\CSHARP\CRUDAlumnos\business\bin\Debug\data.pdb
 C:\Users\Tichs\Desktop\bootcamp-AEOG\CSHARP\CRUDAlumnos\business\bin\Debug\entities.pdb
 C:\Users\Tichs\Desktop\bootcamp-AEOG\CSHARP\CRUDAlumnos\business\obj\Debug\business.csproj.AssemblyReference.cache
@@ -9,3 +11,4 @@ C:\Users\Tichs\Desktop\bootcamp-AEOG\CSHARP\CRUDAlumnos\business\obj\Debug\busin
 C:\Users\Tichs\Desktop\bootcamp-AEOG\CSHARP\CRUDAlumnos\business\obj\Debug\business.csproj.CopyComplete
 C:\Users\Tichs\Desktop\bootcamp-AEOG\CSHARP\CRUDAlumnos\business\obj\Debug\business.dll
 C:\Users\Tichs\Desktop\bootcamp-AEOG\CSHARP\CRUDAlumnos\business\obj\Debug\business.pdb
+C:\Users\Tichs\Desktop\bootcamp-AEOG\CSHARP\CRUDAlumnos\business\bin\Debug\Newtonsoft.Json.xml

@@ -25,6 +25,7 @@ namespace presentacion.Alumnos
                 txtBxTelefono.Text = Convert.ToString(alumno.telefono);
                 txtBxFecNac.Text = Convert.ToString(alumno.fechaNacimiento);
                 txtBxCurp.Text = Convert.ToString(alumno.curp);
+               txtBxSueldo.Text = Convert.ToString(alumno.sueldoMensual);
                 txtBxIdEdo.Text = Convert.ToString(alumno.idEstadoOrigen);
                 txtBxIdEstatus.Text = Convert.ToString(alumno.idEstatus);
                 
@@ -45,9 +46,10 @@ namespace presentacion.Alumnos
             oNalumno.fechaNacimiento=Convert.ToDateTime(txtBxFecNac.Text);
             oNalumno.curp = Convert.ToString(txtBxCurp.Text);
             oNalumno.idEstadoOrigen = int.Parse((txtBxIdEdo.Text));
+            oNalumno.sueldoMensual=Convert.ToDecimal(txtBxSueldo.Text);
             oNalumno.idEstatus = int.Parse(txtBxIdEstatus.Text);
-
             _oNalumno.Actualizar(oNalumno);
+            Response.Redirect($"index.aspx");
         }
     }
 }
