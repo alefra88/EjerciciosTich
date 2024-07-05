@@ -77,7 +77,7 @@
     <div>
         <a href="index.aspx">Regresar a Lista</a>
     </div>
-    <asp:Panel ID="Panel1" runat="server">
+    <asp:Panel ID="Panel1" runat="server" Visible="false">
         <hr />
         <dl>
             <dt>ID</dt>
@@ -105,7 +105,7 @@
         </dl>
     </asp:Panel>
     <hr />
-    <asp:Panel ID="Panel2" runat="server">
+    <asp:Panel ID="Panel2" runat="server" Visible="false">
         <dl>
             <dt>EnfermedadMaternidad</dt>
             <dd>
@@ -127,9 +127,6 @@
         </dl>
     </asp:Panel>
     <!-- modal isr -->
-    <button  type="button" class="btn btn-primary" data-toggle="modal" data-target="#exampleModalCenter">
-        Launch demo modal
-    </button>
 
     <div  id="ModalISR" class="modal" tabindex="-1" role="dialog">
         <div class="modal-dialog" role="document">
@@ -171,10 +168,7 @@
     </div>
     <!--modal IMSS-->
     <!-- Button trigger modal -->
-    <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#exampleModalCenter">
-        Launch demo modal
-    </button>
-
+  
     <div id="modalIMSS" class="modal" tabindex="-1" role="dialog">
         <div class="modal-dialog" role="document">
             <div class="modal-content">

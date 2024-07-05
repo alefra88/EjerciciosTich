@@ -9,7 +9,7 @@ namespace business
 {
     public class NEstado
     {
-        List<Estado> Consultar()
+       public List<Estado> Consultar()
         {
             DEstado oDEestad = new DEstado();
             List<Estado> listaEstado = new List<Estado>();

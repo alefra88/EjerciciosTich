@@ -1,0 +1,11 @@
+C:\Users\Tichs\Desktop\bootcamp-AEOG\CSHARP\HolaWindowsForm\HolaWindowsForm\bin\Debug\HolaWindowsForm.exe.config
+C:\Users\Tichs\Desktop\bootcamp-AEOG\CSHARP\HolaWindowsForm\HolaWindowsForm\bin\Debug\HolaWindowsForm.exe
+C:\Users\Tichs\Desktop\bootcamp-AEOG\CSHARP\HolaWindowsForm\HolaWindowsForm\bin\Debug\HolaWindowsForm.pdb
+C:\Users\Tichs\Desktop\bootcamp-AEOG\CSHARP\HolaWindowsForm\HolaWindowsForm\obj\Debug\HolaWindowsForm.csproj.AssemblyReference.cache
+C:\Users\Tichs\Desktop\bootcamp-AEOG\CSHARP\HolaWindowsForm\HolaWindowsForm\obj\Debug\HolaWindowsForm.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tichs\Desktop\bootcamp-AEOG\CSHARP\HolaWindowsForm\HolaWindowsForm\obj\Debug\HolaWindowsForm.Properties.Resources.resources
+C:\Users\Tichs\Desktop\bootcamp-AEOG\CSHARP\HolaWindowsForm\HolaWindowsForm\obj\Debug\HolaWindowsForm.csproj.GenerateResource.cache
+C:\Users\Tichs\Desktop\bootcamp-AEOG\CSHARP\HolaWindowsForm\HolaWindowsForm\obj\Debug\HolaWindowsForm.csproj.CoreCompileInputs.cache
+C:\Users\Tichs\Desktop\bootcamp-AEOG\CSHARP\HolaWindowsForm\HolaWindowsForm\obj\Debug\HolaWindowsForm.exe
+C:\Users\Tichs\Desktop\bootcamp-AEOG\CSHARP\HolaWindowsForm\HolaWindowsForm\obj\Debug\HolaWindowsForm.pdb
+C:\Users\Tichs\Desktop\bootcamp-AEOG\CSHARP\HolaWindowsForm\HolaWindowsForm\obj\Debug\HolaWindowsForm.FormEstados.resources

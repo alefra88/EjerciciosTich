@@ -1,0 +1,258 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\javie\\Desktop\\PracticasGenJunio2024\\TichJunio2024\\HolaMundoWebForms\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EB988595-480E-4190-B37B-D210046B9BF0}|HolaMundoWebForms\\HolaMundoWebForms.csproj|c:\\users\\javie\\desktop\\practicasgenjunio2024\\tichjunio2024\\holamundowebforms\\holamundowebforms\\webpagesestados\\index.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{EB988595-480E-4190-B37B-D210046B9BF0}|HolaMundoWebForms\\HolaMundoWebForms.csproj|solutionrelative:holamundowebforms\\webpagesestados\\index.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB988595-480E-4190-B37B-D210046B9BF0}|HolaMundoWebForms\\HolaMundoWebForms.csproj|c:\\users\\javie\\desktop\\practicasgenjunio2024\\tichjunio2024\\holamundowebforms\\holamundowebforms\\webpagesestados\\index.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB988595-480E-4190-B37B-D210046B9BF0}|HolaMundoWebForms\\HolaMundoWebForms.csproj|solutionrelative:holamundowebforms\\webpagesestados\\index.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB988595-480E-4190-B37B-D210046B9BF0}|HolaMundoWebForms\\HolaMundoWebForms.csproj|c:\\users\\javie\\desktop\\practicasgenjunio2024\\tichjunio2024\\holamundowebforms\\holamundowebforms\\estado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB988595-480E-4190-B37B-D210046B9BF0}|HolaMundoWebForms\\HolaMundoWebForms.csproj|solutionrelative:holamundowebforms\\estado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB988595-480E-4190-B37B-D210046B9BF0}|HolaMundoWebForms\\HolaMundoWebForms.csproj|c:\\users\\javie\\desktop\\practicasgenjunio2024\\tichjunio2024\\holamundowebforms\\holamundowebforms\\contact.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{EB988595-480E-4190-B37B-D210046B9BF0}|HolaMundoWebForms\\HolaMundoWebForms.csproj|solutionrelative:holamundowebforms\\contact.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB988595-480E-4190-B37B-D210046B9BF0}|HolaMundoWebForms\\HolaMundoWebForms.csproj|c:\\users\\javie\\desktop\\practicasgenjunio2024\\tichjunio2024\\holamundowebforms\\holamundowebforms\\webpagesestados\\details.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{EB988595-480E-4190-B37B-D210046B9BF0}|HolaMundoWebForms\\HolaMundoWebForms.csproj|solutionrelative:holamundowebforms\\webpagesestados\\details.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB988595-480E-4190-B37B-D210046B9BF0}|HolaMundoWebForms\\HolaMundoWebForms.csproj|c:\\users\\javie\\desktop\\practicasgenjunio2024\\tichjunio2024\\holamundowebforms\\holamundowebforms\\webpagesestados\\details.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB988595-480E-4190-B37B-D210046B9BF0}|HolaMundoWebForms\\HolaMundoWebForms.csproj|solutionrelative:holamundowebforms\\webpagesestados\\details.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB988595-480E-4190-B37B-D210046B9BF0}|HolaMundoWebForms\\HolaMundoWebForms.csproj|c:\\users\\javie\\desktop\\practicasgenjunio2024\\tichjunio2024\\holamundowebforms\\holamundowebforms\\site.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB988595-480E-4190-B37B-D210046B9BF0}|HolaMundoWebForms\\HolaMundoWebForms.csproj|solutionrelative:holamundowebforms\\site.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB988595-480E-4190-B37B-D210046B9BF0}|HolaMundoWebForms\\HolaMundoWebForms.csproj|c:\\users\\javie\\desktop\\practicasgenjunio2024\\tichjunio2024\\holamundowebforms\\holamundowebforms\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{EB988595-480E-4190-B37B-D210046B9BF0}|HolaMundoWebForms\\HolaMundoWebForms.csproj|solutionrelative:holamundowebforms\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB988595-480E-4190-B37B-D210046B9BF0}|HolaMundoWebForms\\HolaMundoWebForms.csproj|c:\\users\\javie\\desktop\\practicasgenjunio2024\\tichjunio2024\\holamundowebforms\\holamundowebforms\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{EB988595-480E-4190-B37B-D210046B9BF0}|HolaMundoWebForms\\HolaMundoWebForms.csproj|solutionrelative:holamundowebforms\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB988595-480E-4190-B37B-D210046B9BF0}|HolaMundoWebForms\\HolaMundoWebForms.csproj|c:\\users\\javie\\desktop\\practicasgenjunio2024\\tichjunio2024\\holamundowebforms\\holamundowebforms\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{EB988595-480E-4190-B37B-D210046B9BF0}|HolaMundoWebForms\\HolaMundoWebForms.csproj|solutionrelative:holamundowebforms\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB988595-480E-4190-B37B-D210046B9BF0}|HolaMundoWebForms\\HolaMundoWebForms.csproj|c:\\users\\javie\\desktop\\practicasgenjunio2024\\tichjunio2024\\holamundowebforms\\holamundowebforms\\about.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{EB988595-480E-4190-B37B-D210046B9BF0}|HolaMundoWebForms\\HolaMundoWebForms.csproj|solutionrelative:holamundowebforms\\about.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB988595-480E-4190-B37B-D210046B9BF0}|HolaMundoWebForms\\HolaMundoWebForms.csproj|c:\\users\\javie\\desktop\\practicasgenjunio2024\\tichjunio2024\\holamundowebforms\\holamundowebforms\\content\\bootstrap-grid.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{EB988595-480E-4190-B37B-D210046B9BF0}|HolaMundoWebForms\\HolaMundoWebForms.csproj|solutionrelative:holamundowebforms\\content\\bootstrap-grid.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB988595-480E-4190-B37B-D210046B9BF0}|HolaMundoWebForms\\HolaMundoWebForms.csproj|c:\\users\\javie\\desktop\\practicasgenjunio2024\\tichjunio2024\\holamundowebforms\\holamundowebforms\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB988595-480E-4190-B37B-D210046B9BF0}|HolaMundoWebForms\\HolaMundoWebForms.csproj|solutionrelative:holamundowebforms\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB988595-480E-4190-B37B-D210046B9BF0}|HolaMundoWebForms\\HolaMundoWebForms.csproj|c:\\users\\javie\\desktop\\practicasgenjunio2024\\tichjunio2024\\holamundowebforms\\holamundowebforms\\app_start\\bundleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB988595-480E-4190-B37B-D210046B9BF0}|HolaMundoWebForms\\HolaMundoWebForms.csproj|solutionrelative:holamundowebforms\\app_start\\bundleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Details.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\javie\\Desktop\\PracticasGenJunio2024\\TichJunio2024\\HolaMundoWebForms\\HolaMundoWebForms\\WebPagesEstados\\Details.aspx.cs",
+              "RelativeDocumentMoniker": "HolaMundoWebForms\\WebPagesEstados\\Details.aspx.cs",
+              "ToolTip": "C:\\Users\\javie\\Desktop\\PracticasGenJunio2024\\TichJunio2024\\HolaMundoWebForms\\HolaMundoWebForms\\WebPagesEstados\\Details.aspx.cs",
+              "RelativeToolTip": "HolaMundoWebForms\\WebPagesEstados\\Details.aspx.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwBkAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T15:45:37.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Details.aspx",
+              "DocumentMoniker": "C:\\Users\\javie\\Desktop\\PracticasGenJunio2024\\TichJunio2024\\HolaMundoWebForms\\HolaMundoWebForms\\WebPagesEstados\\Details.aspx",
+              "RelativeDocumentMoniker": "HolaMundoWebForms\\WebPagesEstados\\Details.aspx",
+              "ToolTip": "C:\\Users\\javie\\Desktop\\PracticasGenJunio2024\\TichJunio2024\\HolaMundoWebForms\\HolaMundoWebForms\\WebPagesEstados\\Details.aspx",
+              "RelativeToolTip": "HolaMundoWebForms\\WebPagesEstados\\Details.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-25T15:39:10.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Estado.cs",
+              "DocumentMoniker": "C:\\Users\\javie\\Desktop\\PracticasGenJunio2024\\TichJunio2024\\HolaMundoWebForms\\HolaMundoWebForms\\Estado.cs",
+              "RelativeDocumentMoniker": "HolaMundoWebForms\\Estado.cs",
+              "ToolTip": "C:\\Users\\javie\\Desktop\\PracticasGenJunio2024\\TichJunio2024\\HolaMundoWebForms\\HolaMundoWebForms\\Estado.cs",
+              "RelativeToolTip": "HolaMundoWebForms\\Estado.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAIwAsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T15:32:12.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "index.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\javie\\Desktop\\PracticasGenJunio2024\\TichJunio2024\\HolaMundoWebForms\\HolaMundoWebForms\\WebPagesEstados\\index.aspx.cs",
+              "RelativeDocumentMoniker": "HolaMundoWebForms\\WebPagesEstados\\index.aspx.cs",
+              "ToolTip": "C:\\Users\\javie\\Desktop\\PracticasGenJunio2024\\TichJunio2024\\HolaMundoWebForms\\HolaMundoWebForms\\WebPagesEstados\\index.aspx.cs",
+              "RelativeToolTip": "HolaMundoWebForms\\WebPagesEstados\\index.aspx.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAcwB4AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T15:30:11.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "index.aspx",
+              "DocumentMoniker": "C:\\Users\\javie\\Desktop\\PracticasGenJunio2024\\TichJunio2024\\HolaMundoWebForms\\HolaMundoWebForms\\WebPagesEstados\\index.aspx",
+              "RelativeDocumentMoniker": "HolaMundoWebForms\\WebPagesEstados\\index.aspx",
+              "ToolTip": "C:\\Users\\javie\\Desktop\\PracticasGenJunio2024\\TichJunio2024\\HolaMundoWebForms\\HolaMundoWebForms\\WebPagesEstados\\index.aspx",
+              "RelativeToolTip": "HolaMundoWebForms\\WebPagesEstados\\index.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-25T15:24:55.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\javie\\Desktop\\PracticasGenJunio2024\\TichJunio2024\\HolaMundoWebForms\\HolaMundoWebForms\\Web.config",
+              "RelativeDocumentMoniker": "HolaMundoWebForms\\Web.config",
+              "ToolTip": "C:\\Users\\javie\\Desktop\\PracticasGenJunio2024\\TichJunio2024\\HolaMundoWebForms\\HolaMundoWebForms\\Web.config",
+              "RelativeToolTip": "HolaMundoWebForms\\Web.config",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-06-25T15:21:14.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Site.Master",
+              "DocumentMoniker": "C:\\Users\\javie\\Desktop\\PracticasGenJunio2024\\TichJunio2024\\HolaMundoWebForms\\HolaMundoWebForms\\Site.Master",
+              "RelativeDocumentMoniker": "HolaMundoWebForms\\Site.Master",
+              "ToolTip": "C:\\Users\\javie\\Desktop\\PracticasGenJunio2024\\TichJunio2024\\HolaMundoWebForms\\HolaMundoWebForms\\Site.Master",
+              "RelativeToolTip": "HolaMundoWebForms\\Site.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-25T15:18:55.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Site.Master.cs",
+              "DocumentMoniker": "C:\\Users\\javie\\Desktop\\PracticasGenJunio2024\\TichJunio2024\\HolaMundoWebForms\\HolaMundoWebForms\\Site.Master.cs",
+              "RelativeDocumentMoniker": "HolaMundoWebForms\\Site.Master.cs",
+              "ToolTip": "C:\\Users\\javie\\Desktop\\PracticasGenJunio2024\\TichJunio2024\\HolaMundoWebForms\\HolaMundoWebForms\\Site.Master.cs",
+              "RelativeToolTip": "HolaMundoWebForms\\Site.Master.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAYwAwAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T15:18:54.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Default.aspx",
+              "DocumentMoniker": "C:\\Users\\javie\\Desktop\\PracticasGenJunio2024\\TichJunio2024\\HolaMundoWebForms\\HolaMundoWebForms\\Default.aspx",
+              "RelativeDocumentMoniker": "HolaMundoWebForms\\Default.aspx",
+              "ToolTip": "C:\\Users\\javie\\Desktop\\PracticasGenJunio2024\\TichJunio2024\\HolaMundoWebForms\\HolaMundoWebForms\\Default.aspx",
+              "RelativeToolTip": "HolaMundoWebForms\\Default.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-25T15:18:27.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Contact.aspx",
+              "DocumentMoniker": "C:\\Users\\javie\\Desktop\\PracticasGenJunio2024\\TichJunio2024\\HolaMundoWebForms\\HolaMundoWebForms\\Contact.aspx",
+              "RelativeDocumentMoniker": "HolaMundoWebForms\\Contact.aspx",
+              "ToolTip": "C:\\Users\\javie\\Desktop\\PracticasGenJunio2024\\TichJunio2024\\HolaMundoWebForms\\HolaMundoWebForms\\Contact.aspx",
+              "RelativeToolTip": "HolaMundoWebForms\\Contact.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-25T15:16:05.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "About.aspx",
+              "DocumentMoniker": "C:\\Users\\javie\\Desktop\\PracticasGenJunio2024\\TichJunio2024\\HolaMundoWebForms\\HolaMundoWebForms\\About.aspx",
+              "RelativeDocumentMoniker": "HolaMundoWebForms\\About.aspx",
+              "ToolTip": "C:\\Users\\javie\\Desktop\\PracticasGenJunio2024\\TichJunio2024\\HolaMundoWebForms\\HolaMundoWebForms\\About.aspx",
+              "RelativeToolTip": "HolaMundoWebForms\\About.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-25T15:16:10.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "bootstrap-grid.min.css",
+              "DocumentMoniker": "C:\\Users\\javie\\Desktop\\PracticasGenJunio2024\\TichJunio2024\\HolaMundoWebForms\\HolaMundoWebForms\\Content\\bootstrap-grid.min.css",
+              "RelativeDocumentMoniker": "HolaMundoWebForms\\Content\\bootstrap-grid.min.css",
+              "ToolTip": "C:\\Users\\javie\\Desktop\\PracticasGenJunio2024\\TichJunio2024\\HolaMundoWebForms\\HolaMundoWebForms\\Content\\bootstrap-grid.min.css",
+              "RelativeToolTip": "HolaMundoWebForms\\Content\\bootstrap-grid.min.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-06-25T15:12:52.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "C:\\Users\\javie\\Desktop\\PracticasGenJunio2024\\TichJunio2024\\HolaMundoWebForms\\HolaMundoWebForms\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "HolaMundoWebForms\\App_Start\\RouteConfig.cs",
+              "ToolTip": "C:\\Users\\javie\\Desktop\\PracticasGenJunio2024\\TichJunio2024\\HolaMundoWebForms\\HolaMundoWebForms\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "HolaMundoWebForms\\App_Start\\RouteConfig.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T15:11:17.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "BundleConfig.cs",
+              "DocumentMoniker": "C:\\Users\\javie\\Desktop\\PracticasGenJunio2024\\TichJunio2024\\HolaMundoWebForms\\HolaMundoWebForms\\App_Start\\BundleConfig.cs",
+              "RelativeDocumentMoniker": "HolaMundoWebForms\\App_Start\\BundleConfig.cs",
+              "ToolTip": "C:\\Users\\javie\\Desktop\\PracticasGenJunio2024\\TichJunio2024\\HolaMundoWebForms\\HolaMundoWebForms\\App_Start\\BundleConfig.cs",
+              "RelativeToolTip": "HolaMundoWebForms\\App_Start\\BundleConfig.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAAACIAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T15:08:35.657Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -25,7 +25,7 @@
                     <asp:TextBox ID="txtBxPA" runat="server" CssClass="form-control"></asp:TextBox>
                     <asp:RequiredFieldValidator ID="rfvPApellido" runat="server" ErrorMessage="No puede quedar vacio" ControlToValidate="txtBxPA"></asp:RequiredFieldValidator>
                     <asp:RegularExpressionValidator ID="revPApellido" runat="server"
-                        ControlToValidate="rfvPApellido"
+                        ControlToValidate="txtBxPA"
                         ValidationExpression="^[a-zA-Z\s]+$"
                         ErrorMessage="Solo se permiten letras y espacios"
                         Display="Dynamic">
@@ -60,8 +60,8 @@
                 <div class="form-group">
                     <asp:Label ID="Label6" runat="server" Text="Fecha de Nacimiento"></asp:Label>
                     <asp:TextBox ID="txtBxFecNac" runat="server" CssClass="form-control"></asp:TextBox>
-                    <asp:RequiredFieldValidator ID="rfvFecNac" runat="server" ErrorMessage="No puede quedar vacio" ControlToValidate="txtBxFecNac"></asp:RequiredFieldValidator>
-            <asp:RangeValidator ID="rvFecNav" runat="server" ErrorMessage="La fecha debe estar entre 01-01-1990 y 31-12-2000" ControlToValidate="txtBxFecNac" MaximumValue="01-01-1990" MinimumValue="31-12-1980"></asp:RangeValidator>
+                   <asp:RequiredFieldValidator ID="rfvFecNac" runat="server" ErrorMessage="No puede quedar vacio" ControlToValidate="txtBxFecNac"></asp:RequiredFieldValidator>
+            <asp:RangeValidator ID="rvFecNav" runat="server" ErrorMessage="La fecha debe estar entre 01-01-1990 y 31-12-2000" ControlToValidate="txtBxFecNac" MaximumValue="31-12-2010" MinimumValue="01-01-1990"></asp:RangeValidator>
 
                 </div>
 

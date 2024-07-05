@@ -1,0 +1,10 @@
+C:\Users\Tichs\Desktop\bootcamp-AEOG\CSHARP\WCFAlumno\WCFAlumno\obj\Debug\WCFAlumno.csproj.AssemblyReference.cache
+C:\Users\Tichs\Desktop\bootcamp-AEOG\CSHARP\WCFAlumno\WCFAlumno\obj\Debug\WCFAlumno.csproj.CoreCompileInputs.cache
+C:\Users\Tichs\Desktop\bootcamp-AEOG\CSHARP\WCFAlumno\WCFAlumno\bin\WCFAlumno.dll.config
+C:\Users\Tichs\Desktop\bootcamp-AEOG\CSHARP\WCFAlumno\WCFAlumno\bin\WCFAlumno.dll
+C:\Users\Tichs\Desktop\bootcamp-AEOG\CSHARP\WCFAlumno\WCFAlumno\bin\WCFAlumno.pdb
+C:\Users\Tichs\Desktop\bootcamp-AEOG\CSHARP\WCFAlumno\WCFAlumno\bin\Newtonsoft.Json.dll
+C:\Users\Tichs\Desktop\bootcamp-AEOG\CSHARP\WCFAlumno\WCFAlumno\bin\Newtonsoft.Json.xml
+C:\Users\Tichs\Desktop\bootcamp-AEOG\CSHARP\WCFAlumno\WCFAlumno\obj\Debug\WCFAlumno.csproj.CopyComplete
+C:\Users\Tichs\Desktop\bootcamp-AEOG\CSHARP\WCFAlumno\WCFAlumno\obj\Debug\WCFAlumno.dll
+C:\Users\Tichs\Desktop\bootcamp-AEOG\CSHARP\WCFAlumno\WCFAlumno\obj\Debug\WCFAlumno.pdb

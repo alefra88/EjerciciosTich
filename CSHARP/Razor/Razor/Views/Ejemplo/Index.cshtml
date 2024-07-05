@@ -1,0 +1,26 @@
+﻿
+@using System;
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@if (ViewBag.Mensaje != null)
+{
+    <div>@Html.Raw(ViewBag.Mensaje)</div>
+}
+
+<form method="post"><button type="submit">Saludar</button></form>
+
+
+<h2>Valores del Request</h2>
+
+<label>URL: @Request.Url.ToString()</label>
+<br />
+<label>Request.FilePath: @Request.FilePath.ToString()</label>
+<br />
+<label>Request.MapPath: @Request.MapPath(Request.FilePath).ToString()</label>
+<br />
+<label>Request.Type: @Request.RequestType.ToString()</label>
+
+<a @Html.ActionLink("Regresar index","Index","EjemploControler", null)> ir a Ciclos</a>

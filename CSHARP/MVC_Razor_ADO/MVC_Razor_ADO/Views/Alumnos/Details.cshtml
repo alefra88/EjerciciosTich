@@ -1,0 +1,62 @@
+﻿@using entities;
+@model Alumno
+@{
+    ViewBag.Title = "Details";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="form-horizontal">
+    <h2>Detalles Alumno</h2>
+    <!-- Control asp Label para mensajes -->
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(m => m.id)
+        </dt>
+        <dd>@Html.DisplayFor(m => m.id)</dd>
+
+        <dt>@Html.DisplayNameFor(m => m.nombre)</dt>
+        <dd>@Html.DisplayFor(m => m.nombre)</dd>
+
+        <dt>
+            @Html.DisplayNameFor(m => m.primerApellido)
+        </dt>
+        <dd>@Html.DisplayFor(m => m.primerApellido)</dd>
+
+        <dt>
+            @Html.DisplayNameFor(m => m.segundoApellido)
+        </dt>
+        <dd>@Html.DisplayFor(m => m.segundoApellido)</dd>
+
+        <dt>
+            @Html.DisplayNameFor(m => m.correo)
+        </dt>
+        <dd>
+            @Html.DisplayFor(m => m.correo)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(m => m.fechaNacimiento)
+        </dt>
+        <dd>
+            @Html.DisplayFor(m => m.fechaNacimiento)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(m => m.sueldoMensual)
+        </dt>
+        <dd>
+            @Html.DisplayFor(m => m.sueldoMensual)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(m => m.idEstatus)
+        </dt>
+        <dd>@Html.DisplayFor(m => m.idEstatus)</dd>
+    </dl>
+    <div class="form-group">
+        <div class="col-md-offset-2 col-md-4">
+            @Html.ActionLink("Inicio", "Index", "Alumnos", htmlAttributes: new { @class = "btn btn-success" })
+        </div>
+    </div>
+</div>

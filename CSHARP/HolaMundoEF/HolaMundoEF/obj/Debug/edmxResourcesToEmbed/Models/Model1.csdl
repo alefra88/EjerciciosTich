@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="DB_desde_transactModel1" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="catCurso">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int16" Nullable="false" />
+    <Property Name="clave" Type="String" MaxLength="15" FixedLength="false" Unicode="false" />
+    <Property Name="nombre" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="descripcion" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+    <Property Name="horas" Type="Byte" />
+    <Property Name="idPreRequisito" Type="Int16" />
+    <Property Name="activo" Type="Boolean" />
+    <NavigationProperty Name="catCurso1" Relationship="Self.FK_catCurso_catCurso" FromRole="catCurso" ToRole="catCurso1" />
+    <NavigationProperty Name="catCurso2" Relationship="Self.FK_catCurso_catCurso" FromRole="catCurso1" ToRole="catCurso" />
+    <NavigationProperty Name="Cursos" Relationship="Self.FK_Cursos_catCurso" FromRole="catCurso" ToRole="Cursos" />
+  </EntityType>
+  <EntityType Name="Cursos">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int16" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="idCatCurso" Type="Int16" />
+    <Property Name="fechaInicio" Type="DateTime" Precision="0" />
+    <Property Name="fechaTermino" Type="DateTime" Precision="0" />
+    <Property Name="activo" Type="Boolean" />
+    <NavigationProperty Name="catCurso" Relationship="Self.FK_Cursos_catCurso" FromRole="Cursos" ToRole="catCurso" />
+  </EntityType>
+  <Association Name="FK_catCurso_catCurso">
+    <End Role="catCurso" Type="Self.catCurso" Multiplicity="0..1" />
+    <End Role="catCurso1" Type="Self.catCurso" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="catCurso">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="catCurso1">
+        <PropertyRef Name="idPreRequisito" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Cursos_catCurso">
+    <End Role="catCurso" Type="Self.catCurso" Multiplicity="0..1" />
+    <End Role="Cursos" Type="Self.Cursos" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="catCurso">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="Cursos">
+        <PropertyRef Name="idCatCurso" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="DB_desde_transactEntities1" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="catCurso" EntityType="Self.catCurso" />
+    <EntitySet Name="Cursos" EntityType="Self.Cursos" />
+    <AssociationSet Name="FK_catCurso_catCurso" Association="Self.FK_catCurso_catCurso">
+      <End Role="catCurso" EntitySet="catCurso" />
+      <End Role="catCurso1" EntitySet="catCurso" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Cursos_catCurso" Association="Self.FK_Cursos_catCurso">
+      <End Role="catCurso" EntitySet="catCurso" />
+      <End Role="Cursos" EntitySet="Cursos" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

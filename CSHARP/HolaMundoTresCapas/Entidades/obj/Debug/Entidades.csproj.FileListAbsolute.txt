@@ -1,0 +1,6 @@
+C:\Users\Tichs\Desktop\bootcamp-AEOG\CSHARP\HolaMundoTresCapas\Entidades\bin\Debug\Entidades.dll
+C:\Users\Tichs\Desktop\bootcamp-AEOG\CSHARP\HolaMundoTresCapas\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Tichs\Desktop\bootcamp-AEOG\CSHARP\HolaMundoTresCapas\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\Tichs\Desktop\bootcamp-AEOG\CSHARP\HolaMundoTresCapas\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Tichs\Desktop\bootcamp-AEOG\CSHARP\HolaMundoTresCapas\Entidades\obj\Debug\Entidades.dll
+C:\Users\Tichs\Desktop\bootcamp-AEOG\CSHARP\HolaMundoTresCapas\Entidades\obj\Debug\Entidades.pdb

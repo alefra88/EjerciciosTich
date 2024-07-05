@@ -18,7 +18,7 @@ namespace data
         {
 
             List<Estado> listaEstado = new List<Estado>();
-            _query = $"consultarEstados";
+            _query = ($"consultarEstados");
             using (SqlConnection con = new SqlConnection(_cnnString))
             {
                 comando = new SqlCommand(_query, con);

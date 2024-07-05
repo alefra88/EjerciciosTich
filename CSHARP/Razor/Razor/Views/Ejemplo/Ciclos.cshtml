@@ -1,0 +1,45 @@
+﻿
+@{
+    ViewBag.Title = "Ciclos";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Ciclos</h2>
+@{ 
+    int sumaId = 0;
+}
+@for (int i=1; i <=10;i++)
+            {
+                <p id="parrafo-@i">Párrafo @i</p>
+                { sumaId += i;}
+            }
+
+<p>Suma de Id: @sumaId</p>
+
+
+@if(ViewBag.newDictionary != null && ViewBag.newDictionary.Count>0)
+
+            {
+    <dl>
+        @foreach(var item in ViewBag.newDictionary)
+                {
+                    <dt>@item.Key</dt>
+                    <dd>@item.Value</dd>
+                }
+    </dl>
+            }
+else
+{
+<p>No hay datos disponibles</p>
+}
+
+<h2>Lista Ordenada que trae elementos de Request.ServerVariables</h2>
+@if(Request.ServerVariables != null && Request.ServerVariables.Count>0 )
+            {
+    <ol>
+        @foreach (string item in Request.ServerVariables)
+        {
+                    <li>@item : @Request.ServerVariables[item]</li>
+                }
+    </ol>
+            }

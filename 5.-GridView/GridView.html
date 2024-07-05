@@ -1,0 +1,22 @@
+﻿
+   <h2>Encabezado</h2>
+    <hr />
+    <p><a runat="server" href="~/Pagina.aspx" class="btn btn-primary">Pagina</a></p>
+    <asp:Label ID="lblMensajes" runat="server" Text=""></asp:Label>
+    <asp:GridView ID="gview" runat="server" 
+    AllowPaging="True" 
+    AutoGenerateColumns="False" 
+    BorderStyle="None" 
+    CssClass="table" 
+    GridLines="Horizontal" 
+    OnPageIndexChanging="gview_PageIndexChanging" 
+    OnRowCommand="gview_RowCommand" 
+    PageSize="5">
+        <Columns>
+            <asp:BoundField DataField="id" HeaderText="ID" />
+            <asp:BoundField DataField="nombre" HeaderText="Nombre" />
+            <asp:ButtonField ShowHeader="True" Text="Detalles" CommandName="Consulta">
+            <ControlStyle CssClass="btn btn-warning btn-sm" />
+            </asp:ButtonField>
+        </Columns>
+    </asp:GridView>

@@ -37,7 +37,7 @@ namespace CRUDEstatus
                         }
                         else
                         {
-                            Console.WriteLine("No se encontró ningún estado con ese ID");
+                            Console.WriteLine("No se encontró ningún estatus con ese ID");
                         }
                         break;
                     case 3:
@@ -59,7 +59,7 @@ namespace CRUDEstatus
                         Console.WriteLine("Estatus actualizado conrrectamente");
                         break;
                     case 5:
-                        Console.WriteLine("Ingresa el id del estado a eliminar");
+                        Console.WriteLine("Ingresa el id del estatus a eliminar");
                         int idE = Convert.ToInt16(Console.ReadLine());
                         oCRUD.Eliminar(idE);
                         break;

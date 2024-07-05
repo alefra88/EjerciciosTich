@@ -6,16 +6,18 @@ using System.Data.SqlClient;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using data;
 
 namespace business
 {
-    internal class NEstatusAlumno
+    public class NEstatusAlumno
     {
-        
-            NEstatusAlumno _oNEstatusAlumno = new NEstatusAlumno();
 
-        List<EstatusAlumno> Consultar()
+        
+
+        public List<EstatusAlumno> Consultar()
         {
+            NEstatusAlumno _oNEstatusAlumno = new NEstatusAlumno();
             List<EstatusAlumno> listaEstatus = new List<EstatusAlumno>();
            listaEstatus = _oNEstatusAlumno.Consultar();
             return listaEstatus;

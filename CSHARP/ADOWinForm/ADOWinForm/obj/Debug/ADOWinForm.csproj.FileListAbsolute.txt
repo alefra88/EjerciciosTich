@@ -1,0 +1,14 @@
+C:\Users\Tichs\Desktop\bootcamp-AEOG\CSHARP\ADOWinForm\ADOWinForm\bin\Debug\ADOWinForm.exe.config
+C:\Users\Tichs\Desktop\bootcamp-AEOG\CSHARP\ADOWinForm\ADOWinForm\bin\Debug\ADOWinForm.exe
+C:\Users\Tichs\Desktop\bootcamp-AEOG\CSHARP\ADOWinForm\ADOWinForm\bin\Debug\ADOWinForm.pdb
+C:\Users\Tichs\Desktop\bootcamp-AEOG\CSHARP\ADOWinForm\ADOWinForm\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Tichs\Desktop\bootcamp-AEOG\CSHARP\ADOWinForm\ADOWinForm\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\Tichs\Desktop\bootcamp-AEOG\CSHARP\ADOWinForm\ADOWinForm\obj\Debug\ADOWinForm.csproj.AssemblyReference.cache
+C:\Users\Tichs\Desktop\bootcamp-AEOG\CSHARP\ADOWinForm\ADOWinForm\obj\Debug\ADOWinForm.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tichs\Desktop\bootcamp-AEOG\CSHARP\ADOWinForm\ADOWinForm\obj\Debug\ADOWinForm.frmEstatusAlumnos.resources
+C:\Users\Tichs\Desktop\bootcamp-AEOG\CSHARP\ADOWinForm\ADOWinForm\obj\Debug\ADOWinForm.Properties.Resources.resources
+C:\Users\Tichs\Desktop\bootcamp-AEOG\CSHARP\ADOWinForm\ADOWinForm\obj\Debug\ADOWinForm.csproj.GenerateResource.cache
+C:\Users\Tichs\Desktop\bootcamp-AEOG\CSHARP\ADOWinForm\ADOWinForm\obj\Debug\ADOWinForm.csproj.CoreCompileInputs.cache
+C:\Users\Tichs\Desktop\bootcamp-AEOG\CSHARP\ADOWinForm\ADOWinForm\obj\Debug\ADOWinForm.csproj.CopyComplete
+C:\Users\Tichs\Desktop\bootcamp-AEOG\CSHARP\ADOWinForm\ADOWinForm\obj\Debug\ADOWinForm.exe
+C:\Users\Tichs\Desktop\bootcamp-AEOG\CSHARP\ADOWinForm\ADOWinForm\obj\Debug\ADOWinForm.pdb

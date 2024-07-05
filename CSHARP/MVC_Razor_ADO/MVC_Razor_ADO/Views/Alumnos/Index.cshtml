@@ -1,0 +1,93 @@
+﻿@using entities;
+@model List<Alumno>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>AccesaListaObjetos</h2>
+
+<table>
+    <tr>
+        <th>
+            @Html.DisplayName("id")
+        </th>
+        <th>
+            @Html.DisplayName("nombre")
+        </th>
+        <th>
+            @Html.DisplayName("primerApellido")
+        </th>
+        <th>
+            @Html.DisplayName("segundoApellido")
+        </th>
+        <th>
+            @Html.DisplayName("correo")
+        </th>
+        <th>
+            @Html.DisplayName("telefono")
+        </th>
+        <th>
+            @Html.DisplayName("fechaNacimiento")
+        </th>
+        <th>
+            @Html.DisplayName("curp")
+        </th>
+        <th>
+            @Html.DisplayName("sueldoMensual")
+        </th>
+        <th>
+            @Html.DisplayName("idEstadoOrigen")
+        </th>
+        <th>
+            @Html.DisplayName("idEstatus")
+        </th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr class="text-center">
+            <td>
+                @Html.DisplayFor(m => item.id)
+            </td>
+            <td>
+                @Html.DisplayFor(m => item.nombre)
+            </td>
+            <td>
+                @Html.DisplayFor(m => item.primerApellido)
+            </td>
+            <td>
+                @Html.DisplayFor(m => item.segundoApellido)
+            </td>
+            <td>
+                @Html.DisplayFor(m => item.correo)
+            </td>
+            <td>
+                @Html.DisplayFor(m => item.telefono)
+            </td>
+            <td>
+                @Html.DisplayFor(m => item.fechaNacimiento)
+            </td>
+            <td>
+                @Html.DisplayFor(m => item.curp)
+            </td>
+            <td>
+                @Html.DisplayFor(m => item.sueldoMensual)
+            </td>
+            <td>
+                @Html.DisplayFor(m => item.idEstadoOrigen)
+            </td>
+            <td>
+                @Html.DisplayFor(m => item.idEstatus)
+            </td>
+            <td>
+                @Html.ActionLink("Details", "Details","Alumnos", new { @id = item.id }, htmlAttributes: new { @class = "btn btn-warning" })
+            </td>
+            <td>@Html.ActionLink("Editar", "Edit", "Alumnos", new { @id = item.id }, htmlAttributes: new { @class = "btn btn-success" })</td>
+
+            <td>@Html.ActionLink("Delete", "Delete", "Alumnos", new { @id = item.id }, htmlAttributes: new { @class = "btn btn-danger" })</td>
+
+        </tr>
+    }
+</table>

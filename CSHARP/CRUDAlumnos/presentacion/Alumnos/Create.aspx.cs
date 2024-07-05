@@ -47,5 +47,10 @@ namespace presentacion.Alumnos
             _oNAlumno.Agregrar(oAlumno);
             Response.Redirect($"index.aspx");
         }
+
+        protected void cvScriptJavascript_ServerValidate(object source, ServerValidateEventArgs args)
+        {
+
+        }
     }
 }

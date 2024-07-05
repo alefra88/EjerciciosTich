@@ -14,7 +14,7 @@ namespace data
         string _cnnString = ConfigurationManager.ConnectionStrings["LocalConnection"].ConnectionString;
         string _query;
         SqlCommand comando;
-        List<EstatusAlumno> Consultar()
+         public List<EstatusAlumno> Consultar()
         {
 
             List<EstatusAlumno> listaEstatus = new List<EstatusAlumno>();
