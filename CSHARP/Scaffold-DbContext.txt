@@ -9,7 +9,4 @@ options.UseSqlServer(builder.Configuration.GetConnectionString("PuntoDeVentaData
 builder.Services.AddAuthorization(); 
 
 
-Scaffold-DbContext "Server=DESKTOP-GDCLF14\MSSQLSERVER01;Database=InstitutoTich;integrated security=True;" Microsoft.EntityFrameWorkCore.SqlServer -Tables "EstatusAlumnos" -Context EstatusContext -ContextDir Models/Context -OutputDir Models/Entities -NoPluralize -Force
-
-
-
+Scaffold-DbContext "Server=LAPTOP-S8HOTDC5\SQLEXPRESS;Database=DB_desde_transact;User ID=sa; password=dbdev;" Microsoft.EntityFrameWorkCore.SqlServer -Tables Estados -Context DbContext -ContextDir Models/Context -OutputDir Models/Entities -NoPluralize -Force
