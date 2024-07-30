@@ -1,6 +1,15 @@
-Scaffold-DbContext "Server=DESKTOP-JDVOH45;Database=DB_desde_transact;User ID=sa;password=tich;" Microsoft.EntityFrameWorkCore.SqlServer -Tables "EstatusAlumnos" -Context EstatusContext -ContextDir Models/Context -OutputDir Models/Entities -NoPluralize -Force
+Scaffold-DbContext "Server=LAPTOP-S8HOTDC5\SQLEXPRESS;Database=appEnews;User ID=sa; password=dbdev; TrustServerCertificate=True; " Microsoft.EntityFrameWorkCore.SqlServer -Tables catalogue.categories,catalogue.copys,catalogue.pages  -Context appContext -ContextDir  ./DaL -OutputDir ../ENT -NoPluralize -Force
 
+
+program.cs
+// Add services to the container.
+builder.Services.AddDbContext<PuntoDeVentaContext>(options =>
+options.UseSqlServer(builder.Configuration.GetConnectionString("PuntoDeVentaDatabase")));
+// Add Authorization services
+builder.Services.AddAuthorization(); 
 
 
 Scaffold-DbContext "Server=DESKTOP-GDCLF14\MSSQLSERVER01;Database=InstitutoTich;integrated security=True;" Microsoft.EntityFrameWorkCore.SqlServer -Tables "EstatusAlumnos" -Context EstatusContext -ContextDir Models/Context -OutputDir Models/Entities -NoPluralize -Force
+
+
 
